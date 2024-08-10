@@ -1,0 +1,130 @@
+*{ 
+
+margin-left: 10%;
+margin-right:10%;
+ 
+ 
+    box-sizing: border-box;
+} 
+
+
+ 
+.Login{
+    background-color: white;
+    text-align: center;
+    text-decoration:   #660a4f;
+    color: #63054f;
+
+}
+.contact-logo{
+    
+    border-radius: 100%;  
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);  
+    width: 100px; 
+    height: 100px;  
+    background-color:   #660a4f; 
+    display: center;  
+    justify-content:center;  
+    align-items: center; 
+    color: white;  
+    font-size: 54px; 
+ 
+}
+.Haveanaccount{
+  
+    
+    align-items: center;
+    text-decoration: #660a4f;
+    color: #660a4f;
+    background-color: white;
+     
+    
+
+}
+  
+
+.body {
+
+align-items: center;
+height: 50vh;
+background-color: gray;
+text-align: center;
+}
+
+/* Container for the login form */
+.container {
+box-shadow: #8b929a;
+    
+background-color:white;
+
+padding: 100px;
+margin-top: 0%;
+margin-left: 7%;
+margin-right: 7%;
+border-radius: 5px;
+box-shadow: 0 0 10px rgba(181, 136, 136, 0.1);
+width:  80%;
+text-align: center;
+align-content: center;
+vertical-align: middle;
+ 
+}
+
+ /* ye dono box k lia ha */
+.form-group input {
+width: 100%;
+padding: 8px;
+margin-bottom: 20px;
+text-align:center;
+border: 1px solid white;
+background-color: rgb(245, 240, 240);
+border-radius: 4px;
+outline: none;
+
+ 
+}
+ 
+/* .form-group label {
+display: block;
+margin-bottom: 20px;
+color: aqua;
+text-align: center;
+} */
+
+ 
+ 
+ 
+ 
+.form-group button {
+text-align: center;
+width: 100%;
+padding: 20px;
+background-color:rgb(92, 4, 92);
+color: white;
+border:white;
+border-radius: 11px;
+cursor: pointer;
+}
+.form-groupcheckbox{
+ 
+    
+    text-align: justify;
+    
+    background-color: white;
+    text-decoration: #660a4f;
+    color: #63054f;
+    
+
+}
+.F-password{
+
+    background-color: white;
+    
+    text-decoration: #63054e;
+    color: #63054e;
+}
+ 
+.form-group button:hover {
+background-color: #bacadb;
+
+} 
