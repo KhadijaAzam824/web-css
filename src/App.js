@@ -18,7 +18,7 @@ function App() {
     <div className="App">
       {/* <RouterProvider router={route}></RouterProvider> */}
 
-      <h2>This is my first project</h2>
+      <h2>My first react project</h2>
       <Signup />
     </div>
   );
